@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Department of Physical Electronics  
-Faculty of Nuclear Sciences and Physical Engineering  
-Czech Technical University in Prague  
+[Department of Physical Electronics](https://www.kfe.fjfi.cvut.cz/)  
+[Faculty of Nuclear Sciences and Physical Engineering](https://www.fjfi.cvut.cz/en/)  
+[Czech Technical University in Prague](https://www.cvut.cz/en)  
   
 Address: V Holešovičkách 474/2, Prague  
 Office: L-234  
