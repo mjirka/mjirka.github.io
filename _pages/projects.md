@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
+description: Free topics for bachelor/master thesis.
+nav: true
+nav_order: 4
+display_categories: [Free topics for bachelor/master thesis]
 horizontal: false
 ---
 
