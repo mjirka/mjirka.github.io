@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 6
 ---
+<!--
+## [Numerical methods (12NME1)](https://mjirka.github.io/nme) 
+Summer semester 2023/2024
+//-->
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+## [Principles of plasma physics (12ZFP)](http://kfe.fjfi.cvut.cz/~limpouch/plazma/12ZFP.html)
+Summer semester 2024/2025
