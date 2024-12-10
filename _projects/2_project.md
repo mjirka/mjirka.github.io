@@ -1,10 +1,10 @@
 ---
 layout: page
-title: polarizace vakua
+title: Polarizace vakua
 description: vakuum je tvořeno vznikajícími a zanikajícími částicemi, které je možné silným laserovým polem polarizovat, a tak indukovat např. dvojlomnost nebo dichroismus vakua
 img: assets/img/vacuum_polarization.png
 importance: 2
-category: Free topics for bachelor/master thesis
+category: Free topics for bachelor/master/PhD thesis
 giscus_comments: false
 ---
 

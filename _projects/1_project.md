@@ -4,7 +4,7 @@ title: Jak přeměnit světlo na hmotu?
 description: vznik pozitronů při interakci silných laserových impulsů s elektrony
 img: assets/img/positrons.png
 importance: 1
-category: Free topics for bachelor/master thesis
+category: Free topics for bachelor/master/PhD thesis
 related_publications: false
 ---
 
