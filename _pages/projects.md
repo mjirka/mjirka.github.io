@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Free topics for bachelor/master/PhD thesis
 nav: true
 nav_order: 3
-display_categories: [Free topics for bachelor/master thesis]
+display_categories: [Free topics for bachelor/master/PhD thesis]
 horizontal: false
 ---
 
